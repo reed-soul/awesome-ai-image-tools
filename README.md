@@ -43,6 +43,7 @@ Tools to enlarge images without losing quality, colorize old photos, and enhance
 
 Efficient tools for handling image sizes, formats, and optimization for the web.
 
+* [ImgFlow](https://imgflow.taoliapp.com/en/) - Free browser-based compressor and converter for AVIF, JPG, PNG, WebP, and HEIC. Files stay on-device.
 * [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
 * [TinyPNG](https://tinypng.com/) - Smart WebP, PNG and JPEG compression.
 * *(Add your future compression/format conversion websites here!)*
